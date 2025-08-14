@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors
-This is my rock, paper scissors game created for my leaving cert computer science project. It was created using python.
+This is my rock, paper scissors game created for my leaving cert computer science project. It was created using python. It has Singleplayer,mulitplayer and simluation mode and is able to create/view graphs for how many times rock,paper or scissors has been chosen in each mode. 
 
 The program was built on and for mac using thonny. It is necessary to install matplotlib,tkinter and tkmacosx. Tkmacosx is used to change the colours of the buttons as tkinter has issues with that on mac. The game can also be run on windows but tkmacosx may need to be removed, the windows and buttons size changed and potentially the colours.
 
